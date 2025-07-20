@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm Mohammed Raiyan Abedin  
+First-Class Software Engineering Graduate  
+📍 Bristol, UK  
+🌐 raiyanabedin.com • 📧 Raiyanabedinn@gmail.com • LinkedIn: linkedin.com/in/raiyan-abedin
 
-<!--
-**RaiyanAbedin/RaiyanAbedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**🚀 About Me**  
+I'm Raiyan – a software engineer with a strong focus on full-stack development, mobile-development, backend systems, and building tools that solve real problems.  
+I’ve worked on consultancy-style projects ranging from AI-powered university apps to internal tools for UWE IT Services.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🛠️ Tech Stack**  
+Languages & Tools: Python • JavaScript • TypeScript • HTML • CSS  
+Frameworks & Technologies: React • Flask • React Native • Expo Go • MongoDB • PostgreSQL • MySQL  
+TailwindCSS • OpenAI API • Framer Motion • Camunda • Arduino
+
+---
+
+**📫 Let's Connect**  
+Always open to collaborations or conversations!  
