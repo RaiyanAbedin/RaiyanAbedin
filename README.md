@@ -9,6 +9,9 @@ First-Class Software Engineering Graduate
 I'm Raiyan – a software engineer with a strong focus on full-stack development, mobile-development, backend systems, and building tools that solve real problems.  
 I’ve worked on consultancy-style projects ranging from AI-powered university apps to internal tools for UWE IT Services.  
 
+I bring a **startup mindset** to everything I build: fast iterations, user-first design, and scalable code. I love building.
+
+
 ---
 
 **🛠️ Tech Stack**  
