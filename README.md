@@ -1,7 +1,7 @@
 Hey, I'm Mohammed Raiyan Abedin ! 
 First-Class Software Engineering Graduate  
 📍 Bristol, UK  
-🌐 raiyanabedin.com • 📧 Raiyanabedinn@gmail.com • LinkedIn: linkedin.com/in/raiyan-abedin
+🌐 https://raiyanabedin.com/ • 📧 Raiyanabedinn@gmail.com • LinkedIn: linkedin.com/in/raiyan-abedin
 
 ---
 
